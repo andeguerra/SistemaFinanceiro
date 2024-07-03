@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|c:\\users\\anderson\\source\\repos\\sistema_financeiro_prof\\sistema_financeiro\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\geral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\frmcontrolefn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmcontrolefn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\frmcontrolefn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmcontrolefn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\sistema_financeiro\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8651F494-5EF3-4B1E-B1DA-C75445345FDC}|Sistema_Financeiro\\Sistema_Financeiro.csproj|solutionrelative:sistema_financeiro\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Geral.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\Geral.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\Geral.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\Geral.cs",
+              "RelativeToolTip": "Sistema_Financeiro\\Geral.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:54:08.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\Conexao.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\Conexao.cs*",
+              "RelativeToolTip": "Sistema_Financeiro\\Conexao.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:12:49.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\Program.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\Program.cs",
+              "RelativeToolTip": "Sistema_Financeiro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T03:07:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmLogin.cs",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmLogin.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:06:46.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:28:39.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmUsuarios.cs",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmUsuarios.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAmwD0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:09:44.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmUsuarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmUsuarios.cs [Design]",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:57:18.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmMenu.cs",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:46:13.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:45:38.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmControleFn.cs",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmControleFn.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmControleFn.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmControleFn.cs",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmControleFn.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAewKkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:11:05.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmControleFn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmControleFn.cs",
+              "RelativeDocumentMoniker": "Sistema_Financeiro\\FrmControleFn.cs",
+              "ToolTip": "C:\\Users\\Anderson\\source\\repos\\Sistema_Financeiro_prof\\Sistema_Financeiro\\FrmControleFn.cs [Design]",
+              "RelativeToolTip": "Sistema_Financeiro\\FrmControleFn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:11:01.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
