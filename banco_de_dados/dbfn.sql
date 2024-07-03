@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 20/05/2024 às 21:20
+-- Tempo de geração: 03/07/2024 às 22:08
 -- Versão do servidor: 10.4.32-MariaDB
 -- Versão do PHP: 8.2.12
 
@@ -49,6 +49,7 @@ INSERT INTO `tab_categorias` (`id`, `categoria`) VALUES
 CREATE TABLE `tab_financas` (
   `id` int(11) NOT NULL,
   `valor` float NOT NULL,
+  `data` datetime NOT NULL,
   `categoria_id` int(11) NOT NULL,
   `usuario_id` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
@@ -57,12 +58,9 @@ CREATE TABLE `tab_financas` (
 -- Despejando dados para a tabela `tab_financas`
 --
 
-INSERT INTO `tab_financas` (`id`, `valor`, `categoria_id`, `usuario_id`) VALUES
-(23, 444, 1, 12),
-(24, 200, 2, 12),
-(25, 33, 1, 12),
-(26, 2222, 2, 12),
-(27, 3344, 1, 12);
+INSERT INTO `tab_financas` (`id`, `valor`, `data`, `categoria_id`, `usuario_id`) VALUES
+(29, 1000, '2024-07-03 16:51:57', 1, 12),
+(30, 100, '2024-07-03 16:52:06', 2, 12);
 
 -- --------------------------------------------------------
 
@@ -83,7 +81,10 @@ CREATE TABLE `tab_logs` (
 
 INSERT INTO `tab_logs` (`id`, `msg_erro`, `usuario_id`, `dt_erro`) VALUES
 (1, 'Table \'dbfn.tab_usuario\' doesn\'t exist', 12, '2024-05-15 19:34:54'),
-(2, 'Table \'dbfn.tab_usuario\' doesn\'t exist', 12, '2024-05-15 19:58:59');
+(2, 'Table \'dbfn.tab_usuario\' doesn\'t exist', 12, '2024-05-15 19:58:59'),
+(3, 'Unknown column \'tf.data\' in \'field list\'', 12, '2024-07-03 16:49:14'),
+(4, 'Unknown column \'tf.data\' in \'field list\'', 12, '2024-07-03 16:49:15'),
+(5, 'O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.\r\nNome do parâmetro: index', 12, '2024-07-03 16:49:17');
 
 -- --------------------------------------------------------
 
@@ -179,13 +180,13 @@ ALTER TABLE `tab_categorias`
 -- AUTO_INCREMENT de tabela `tab_financas`
 --
 ALTER TABLE `tab_financas`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=31;
 
 --
 -- AUTO_INCREMENT de tabela `tab_logs`
 --
 ALTER TABLE `tab_logs`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT de tabela `tab_nivel`

@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMenu));
             this.pnMenu = new System.Windows.Forms.Panel();
-            this.pnCentral = new System.Windows.Forms.Panel();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -39,8 +38,11 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnNome = new System.Windows.Forms.Button();
             this.btnNivel = new System.Windows.Forms.Button();
+            this.pnPrincipal = new System.Windows.Forms.Panel();
+            this.pnCentral = new System.Windows.Forms.Panel();
             this.pnMenu.SuspendLayout();
             this.panel1.SuspendLayout();
+            this.pnPrincipal.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnMenu
@@ -56,19 +58,8 @@
             this.pnMenu.Location = new System.Drawing.Point(0, 0);
             this.pnMenu.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.pnMenu.Name = "pnMenu";
-            this.pnMenu.Size = new System.Drawing.Size(254, 597);
+            this.pnMenu.Size = new System.Drawing.Size(254, 768);
             this.pnMenu.TabIndex = 0;
-            // 
-            // pnCentral
-            // 
-            this.pnCentral.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
-            this.pnCentral.Dock = System.Windows.Forms.DockStyle.Right;
-            this.pnCentral.Location = new System.Drawing.Point(254, 0);
-            this.pnCentral.Margin = new System.Windows.Forms.Padding(0);
-            this.pnCentral.Name = "pnCentral";
-            this.pnCentral.Padding = new System.Windows.Forms.Padding(10);
-            this.pnCentral.Size = new System.Drawing.Size(920, 597);
-            this.pnCentral.TabIndex = 2;
             // 
             // button5
             // 
@@ -82,7 +73,7 @@
             this.button5.ForeColor = System.Drawing.Color.DimGray;
             this.button5.Image = global::Sistema_Financeiro.Properties.Resources.porta_aberta;
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.button5.Location = new System.Drawing.Point(0, 534);
+            this.button5.Location = new System.Drawing.Point(0, 705);
             this.button5.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.button5.Name = "button5";
             this.button5.Padding = new System.Windows.Forms.Padding(12, 0, 6, 0);
@@ -233,12 +224,34 @@
             this.btnNivel.Text = "Nivel de acesso Administrador";
             this.btnNivel.UseVisualStyleBackColor = false;
             // 
+            // pnPrincipal
+            // 
+            this.pnPrincipal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.pnPrincipal.Controls.Add(this.pnCentral);
+            this.pnPrincipal.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnPrincipal.Location = new System.Drawing.Point(254, 0);
+            this.pnPrincipal.Margin = new System.Windows.Forms.Padding(0);
+            this.pnPrincipal.Name = "pnPrincipal";
+            this.pnPrincipal.Padding = new System.Windows.Forms.Padding(10);
+            this.pnPrincipal.Size = new System.Drawing.Size(1026, 768);
+            this.pnPrincipal.TabIndex = 2;
+            // 
+            // pnCentral
+            // 
+            this.pnCentral.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.pnCentral.Location = new System.Drawing.Point(54, 80);
+            this.pnCentral.Margin = new System.Windows.Forms.Padding(0);
+            this.pnCentral.Name = "pnCentral";
+            this.pnCentral.Padding = new System.Windows.Forms.Padding(10);
+            this.pnCentral.Size = new System.Drawing.Size(920, 600);
+            this.pnCentral.TabIndex = 3;
+            // 
             // FrmMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1174, 597);
-            this.Controls.Add(this.pnCentral);
+            this.ClientSize = new System.Drawing.Size(1280, 768);
+            this.Controls.Add(this.pnPrincipal);
             this.Controls.Add(this.pnMenu);
             this.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -250,6 +263,7 @@
             this.Load += new System.EventHandler(this.FrmMenu_Load);
             this.pnMenu.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
+            this.pnPrincipal.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -265,6 +279,7 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button btnNome;
         private System.Windows.Forms.Button btnNivel;
+        private System.Windows.Forms.Panel pnPrincipal;
         private System.Windows.Forms.Panel pnCentral;
     }
 }
